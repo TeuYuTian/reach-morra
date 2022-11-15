@@ -2,6 +2,7 @@
 Open two cli
 - cli1 - ../reach compile ( generate build/index.main.mjs )
 - cli1 - ../reach devnet ( Fire up the backend )
+- cli2 - npm i (install node module)
 - cli2 - npm run serve
 - Step 1 - Open new browser tab, Click on Alfred
 - Step 2 - Open new browser tab, Click on Brandon
