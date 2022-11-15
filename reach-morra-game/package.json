@@ -12,6 +12,8 @@
     "bootstrap": "4.5.2",
     "bootstrap-vue": "2.16.0",
     "core-js": "^3.6.5",
+    "superagent": "^8.0.3",
+    "uuid": "^7.0.3",
     "vue": "^2.6.11",
     "vue-wizard-steps": "^1.0.7"
   },
