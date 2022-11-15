@@ -3,10 +3,10 @@ Open two cli
 cli1 - ../reach compile ( generate build/index.main.mjs )
 cli1 - ../reach devnet ( Fire up the backend )
 cli2 - npm run serve
-Step 1 - Open new browser tab, Click on Designer button, copy contract JSON
-Step 2 - Open new browser tab, Click on Customer button, paste contract info and click attach contract
+Step 1 - Open new browser tab, Click on Alfred
+Step 2 - Open new browser tab, Click on Brandon
 
-TODO
+# TODO
 setup .env.local with wallet details
 example in .ev.local: 
 
