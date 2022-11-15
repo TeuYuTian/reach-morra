@@ -8,7 +8,7 @@ Open two cli
 
 # TODO
 - setup .env.local with wallet details
-example in .ev.local: 
+_ example in .ev.local: 
 
 - VUE_APP_SECRET1=gossip cram flip mammal hold history width believe mean knock fresh cloth bottom aim around erosion reform lizard false fun word umbrella witness ability slot
 - VUE_APP_SECRET2=claw auto voice guilt any blush black tornado edit utility royal race dust chuckle text during cereal prevent afraid slogan shrug sign cause about cherry
